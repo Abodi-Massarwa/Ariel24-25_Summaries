@@ -1,0 +1,26 @@
+Focused Study Plan with Blitzstein and Hwang
+Week 1-2: Essential Probability and Statistics
+Chapter 1: Probability and Counting
+
+Focus: Basic probability concepts, sample spaces, and events.
+Key Topics: Axioms of probability, counting techniques (permutations, combinations).
+Chapter 2: Conditional Probability
+
+Focus: Understanding conditional probability and independence.
+Key Topics: Bayes' theorem, law of total probability, independence.
+Chapter 3: Random Variables
+
+Focus: Discrete and continuous random variables.
+Key Topics: Probability mass functions (PMFs), probability density functions (PDFs), cumulative distribution functions (CDFs).
+Chapter 4: Expectation and Variance
+
+Focus: Properties and applications of expectation and variance.
+Key Topics: Linearity of expectation, variance, standard deviation, covariance, correlation.
+Chapter 5: Common Distributions
+
+Focus: Important probability distributions.
+Key Topics: Binomial, Poisson, normal distributions, their properties, and applications.
+Supplementary Online Resources
+MIT OpenCourseWare: Use lecture notes and problem sets from the Probability and Statistics course.
+Khan Academy: Review sections on Basic Probability, Random Variables, and Probability Distributions.
+By focusing on these chapters, you will gain the essential probability and statistics knowledge needed for machine learning and AI applications in trading. This targeted approach ensures you cover the fundamental concepts without getting overwhelmed by the entire book.
